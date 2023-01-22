@@ -6,4 +6,4 @@ git commit -m "..." - hozzáadom a local repositoryhoz
 git branch ... - új ág létrehozása
 git checkout ... - váltás az ágak között
 git remote add origin ... - remote repository megadása
-git push -u origin main - feltöltés a remote repositoryba
+git push -u origin main - feltöltés a remote repositoryba# git0121-vizsga
